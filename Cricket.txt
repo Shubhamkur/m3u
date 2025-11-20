@@ -1,17 +1,4 @@
-<!DOCTYPE html>
-<html>
-</head>
-<body>
-<script>
-window.location.href = "https://telegram.me/rkdyiptv";
-</script>
-</html>
-<noscript>
-</noscript>
 
-
-#EXTM3U
-#DATE:- Saturday 8th of November 2025 11:15:52 AM
 
 
 
